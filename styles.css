@@ -45,6 +45,14 @@ main,
 }
 
 .bar {
+  z-index: 4;
+}
+
+.toc {
+  z-index: 3;
+}
+
+.bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
