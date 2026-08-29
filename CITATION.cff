@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "HOMO TURENSIS: The Mechanics of the Civilization of Spivbuttya"
+message: If you cite this work, please use the metadata below.
+type: book
+authors:
+  - family-names: Tyhyi
+    given-names: Tur
+version: "1.1"
+date-released: "2026-08-29"
+license: CC-BY-NC-ND-4.0
+url: https://github.com/tur-tyhyi/homo-turensis
+contact:
+  - email: spivbuttya@icloud.com
+keywords:
+  - Homo Turensis
+  - Spivbuttya
+  - TURISM
+  - civilization
